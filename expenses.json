@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "date": "Tue, 08 Oct 2024 14:27:04 GMT",
+    "description": "Dinner",
+    "amount": "10"
+  },
+  {
+    "id": 3,
+    "date": "Tue, 08 Oct 2024 14:27:05 GMT",
+    "description": "lunch",
+    "amount": "20"
+  },
+  {
+    "id": 4,
+    "date": "Tue, 08 Oct 2024 14:27:27 GMT",
+    "description": "biscuit",
+    "amount": "30"
+  }
+]
